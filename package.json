@@ -1,0 +1,13 @@
+{
+  "name": "subpath-exports",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/run.js",
+  "type": "module",
+  "scripts": {
+    "test": "node ."
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
